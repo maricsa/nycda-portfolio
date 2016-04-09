@@ -58,7 +58,7 @@ img {
 }
 
 #header nav ul li a:hover {
-	color: #2E4053;
+	color: #CD6155;
 }
 
 #footer {
@@ -73,7 +73,16 @@ img {
 	margin-left: 400px;
 	padding: 10px;
 	padding-top: 30px;
-	border: 2px solid black;
 
 
+}
+.main h2 {
+	font-style: Helvetica;
+	color: #CD6155;
+}
+h2 {
+	margin-top: 20px;
+}
+p {
+	margin-top: 10px;
 }
