@@ -24,9 +24,16 @@ nav {
 	position: fixed;
 	width: 100%;
 	z-index: 10000;
-	margin-left: 810px;
+	margin-left: 730px;
 	top: 80px;
 }
+#nav {
+	position: fixed;
+	margin-top: 50px;
+	margin-left: 250px;
+
+}
+
 .wrapper{
 	width: 700px;
 	height: 280px;
@@ -52,7 +59,7 @@ h3 {
 	text-align: center;	
 	
 }
-img {
+.kosa {
 	width: 700px;
 	height: 280px;
 }
@@ -84,7 +91,6 @@ img {
 	padding: 10px;
 	padding-top: 30px;
 
-
 }
 .main h2 {
 	font-style: "Courier New";
@@ -102,4 +108,16 @@ p {
 	text-align: center;
 	padding: 20px;
 	margin-top: 30px;
+}
+.pic {
+	width: 200px;
+	height: 200px;
+	float: left;
+	padding: 20px;
+}
+.content {
+	width: 900px;
+	height: 400px;
+	margin-left: 350px;
+	padding-top: 50px;
 }
